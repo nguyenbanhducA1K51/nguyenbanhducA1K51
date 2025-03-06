@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Duc Nguyen! 👋
+
+🚀 Software Engineer | Golang, Java, Python, C/C++, SQL (Postgres)   
+🌱 Experienced in AI in Healthcare 
+👨‍💻 Open to collaboration on interesting projects  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/duc-nguyen-a505aa20a/)] | [Email](ducnguyen.wings@gmail.com)  
+
+🛠️ **Tech Stack:**  
+- Languages: Golang, Java, Python, C/C++, SQL (Postgres)  
+- Tools: Docker, Kubernetes, Git, CI/CD, AWS, GCP  
+
+💡 What I’m Passionate About:
+- Building scalable and efficient backend systems
+- Solving complex problems with simple, elegant solutions
+- Continuous learning and exploring new technologies
+
