@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 Software Engineer | Golang, Java, Python, C/C++, SQL (Postgres)   
 🌱 Experienced in AI in Healthcare 
-👨‍💻 Open to collaboration on interesting projects  
+👨‍💻 Open to work on impactful product!  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/duc-nguyen-a505aa20a/)] | [Email](ducnguyen.wings@gmail.com)  
 
 🛠️ **Tech Stack:**  
