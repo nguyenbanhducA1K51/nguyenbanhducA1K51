@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/duc-nguyen-a505aa20a/)] | [Email](ducnguyen.wings@gmail.com)  
 
 🛠️ **Tech Stack:**  
-- Languages: Golang, Java, Python, C/C++, SQL (Postgres)  
+- Languages: Golang, Java, Python, JavaScript, C/C++, SQL (Postgres)  
 - Tools: Docker, Kubernetes, Git, CI/CD, AWS, GCP  
 
 💡 What I’m Passionate About:
