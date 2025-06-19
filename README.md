@@ -21,7 +21,20 @@ Here are some ideas to get you started:
 🌱 Experienced in AI in Healthcare 
 👨‍💻 Open to work on impactful product!  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/duc-nguyen-a505aa20a/)] | [Email](ducnguyen.wings@gmail.com)  
+## 🛠️ Languages & Tools
 
+<!-- Replace this section with your main languages based on your GitHub repos -->
+<!-- You can generate this dynamically using tools like https://github.com/anuraghazra/github-readme-stats -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbanhducA1K51&layout=compact&theme=github_dark)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbanhducA1K51&show_icons=true&theme=github_dark)
+
+---
 🛠️ **Tech Stack:**  
 - Languages: Golang, Java, Python, JavaScript, C/C++, SQL (Postgres)  
 - Tools: Docker, Kubernetes, Git, CI/CD, AWS, GCP  
