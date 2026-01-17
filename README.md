@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 🛠️ **Tech Stack:**  
-- Languages: Golang, Java, Python, JavaScript, C/C++, SQL (Postgres)  
+- Languages: C#, Golang, Java, Python, JavaScript, C/C++, SQL (Postgres)  
 - Tools: Docker, Kubernetes, Git, CI/CD, AWS, GCP  
 
 💡 What I’m Passionate About:
